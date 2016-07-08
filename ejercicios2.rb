@@ -65,6 +65,3 @@
 puts "escribe el parrafo a analizar"
 parrafo =gets.chomp
 print "#{parrafo.downcase.gsub!(/[e]/,'o')}"
-
-
-

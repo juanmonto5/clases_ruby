@@ -49,9 +49,6 @@ person2 = Person.new("Jose",20)
 # 	end	
 # end
 
-
-
-
 class Person
  attr_reader :age
  attr_accessor :name
